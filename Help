@@ -1,0 +1,4 @@
+hello，sorry to bother you. for your project,I have some question,so hope you can help me ,thank you.
+Firstly,in gen-datasets.sh ,there is one order "python deepcoder/scripts/gen-examples.py --infile $TRAIN_PROG \ --outfile $TRAIN_OUT",but
+I don't find gen-examples.py.Then I want to know how to predict the answer , README only tell me how to train ,but can't from inputs and outputs to get program.
+Finally thank you very much!
